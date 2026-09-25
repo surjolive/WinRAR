@@ -1,7 +1,7 @@
 # WinRAR for Windows
 
 <p align="center">
-  <img src="banner.png" alt="WinRAR for Windows Banner" width="100%">
+  <img src="banner.jpeg" alt="WinRAR for Windows Banner" width="100%">
 </p>
 
 <p align="center">
